@@ -1,0 +1,7 @@
+# Two
+
+画像とかはってみるよ
+
+![禁帯出](images/kintaishutsu.png)
+
+
